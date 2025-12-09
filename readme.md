@@ -1,0 +1,2 @@
+- This repo is meant to show off some cool data analytics I have made.
+- The dataset(s) used to create these, are unlikely to be posted publically.
